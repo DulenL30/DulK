@@ -5,7 +5,7 @@ const Balance = async () => {
   return (
     <>
       <h1 className="text-left mt-10 max-w-[360px] mx-auto text-xl font-bold">Your Balance</h1>
-      <h1 className="text-left  mb-5 max-w-[360px] mx-auto text-5xl font-bold">${ balance }</h1>
+      <h1 className="text-left  mb-5 max-w-[360px] mx-auto text-5xl font-bold">${ balance ?? 0}</h1>
     </>
   );
 };
