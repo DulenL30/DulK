@@ -8,7 +8,7 @@
    
 }
 
-/* Style for AddTransaction form component */
+
 form {
   margin: 20px 0;
   padding: 20px;
@@ -17,14 +17,6 @@ form {
   margin-left: auto;
   margin-right: auto;
 }
-
-/*h3 {
-  text-align: center;
-  font-size: 1.5rem;
-  margin-bottom: 15px;
-}*/
-
-
 
 .form-control {
   margin-bottom: 20px;
@@ -64,6 +56,48 @@ form {
 }*/
 
 
+.inc-exp-container {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.inc-exp-container > div {
+  flex: 1;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.inc-exp-container > div:first-of-type {
+  border-right: 1px solid #dedede;
+}
+
+.inc-exp-container h4 {
+  margin: 0 0 8px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.money {
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.money.plus {
+  color: #2ecc71;
+}
+
+.money.minus {
+  color: #c0392b;
+}
 
 
 
