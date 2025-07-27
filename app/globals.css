@@ -43,18 +43,6 @@ form {
   outline: none;
 }
 
-/*.btn {
-  width: 100%;
-  background-color: #a076f9;
-  color: white;
-  padding: 12px;
-  font-size: 1rem;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}*/
-
 
 .inc-exp-container {
   background-color: #fff;
@@ -100,5 +88,91 @@ form {
 }
 
 
+.list li.plus {
+  border-right: 5px solid #2ecc71;
+}
 
+.list li.minus {
+  border-right: 5px solid #c0392b;
+}
+
+.delete-btn {
+  cursor: pointer;
+  background-color: #e74c3c;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 2px 5px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-100%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.list li:hover .delete-btn {
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-color: #f7f7f7;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto 40px auto; /* Center the list */
+  width: 100%;
+  max-width: 1000px; /* Limit the maximum width */
+}
+
+.list li {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 8px 12px; /* Reduced padding for more compact look */
+  margin: 1px 0; /* Even smaller margin */
+  border-radius: 2px;
+  font-size: 13px; /* Slightly smaller font */
+  min-height: 16px; /* Control height */
+}
+
+.list li span {
+  font-weight: bold;
+  margin-left: auto;
+  /* Removed margin-right to let delete button show properly */
+}
+
+.line{
+  margin: 20px 0;
+  padding: 20px;
+  border-top: 1px solid #ccc;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
