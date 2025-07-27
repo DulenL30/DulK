@@ -8,6 +8,60 @@
    
 }
 
+/* Style for AddTransaction form component */
+form {
+  margin: 20px 0;
+  padding: 20px;
+  border-top: 1px solid #ccc;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control label {
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.form-control input {
+  padding: 10px;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  transition: border-color 0.3s;
+}
+
+.form-control input:focus {
+  border-color: #34d399;
+  outline: none;
+}
+
+/*.btn {
+  width: 100%;
+  background-color: #a076f9;
+  color: white;
+  padding: 12px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}*/
+
+
 
 
 
