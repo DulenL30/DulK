@@ -19,7 +19,7 @@ const formRef = useRef<HTMLFormElement>(null);
 
 
     return ( <>
-    <h3>Add Transaction</h3>
+    <h3 className="text-left mt-10 mb-5 max-w-[360px] mx-auto text-xl font-bold">Add Transaction</h3>
     <form ref={formRef} action={clientAction}>
         <div className="form-control">
             <label htmlFor="text">Text</label>
