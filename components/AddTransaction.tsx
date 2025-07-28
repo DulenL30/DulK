@@ -30,7 +30,8 @@ const formRef = useRef<HTMLFormElement>(null);
             <input type="number" name="amount" id="amount" placeholder="Enter amount..." step="0.01" />
         </div>
 
-        <button className="w-full bg-emerald-400 text-white px-4 py-2 rounded hover:bg-emerald-300 transition-colors cursor-pointer text-base border-none duration-300">Add Transaction</button>
+        <button className="w-full font-semibold text-slate-800  gap-2 bg-green-500 text-white px-4 py-2 rounded hover:bg-emerald-300 transition-colors cursor-pointer p-8 border-green-200 hover:shadow-xl transition-all duration-300 hover:-translate-y-2 items-center">Add Transaction</button>
+
 
     </form>
     </> 
@@ -38,4 +39,7 @@ const formRef = useRef<HTMLFormElement>(null);
 }
  
 export default AddTransaction;
+
+
+
 
