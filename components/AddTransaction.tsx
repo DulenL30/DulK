@@ -26,7 +26,7 @@ const formRef = useRef<HTMLFormElement>(null);
             <input type="text" id="text" name="text" placeholder="Enter text..." />
         </div>
         <div className="form-control">
-            <label htmlFor="amount">Amount <br />(negative - expense, positive - income)</label>
+            <label htmlFor="amount">Amount <br />(Negative - Expense, Positive - Income)</label>
             <input type="number" name="amount" id="amount" placeholder="Enter amount..." step="0.01" />
         </div>
 

@@ -16,7 +16,7 @@ export default async function Navbar() {
         <div className="flex items-center space-x-4">
           <SignedOut>
             <SignInButton mode="modal">
-              <button className="flex items-center gap-2 bg-emerald-400 text-white px-4 py-2 rounded hover:bg-emerald-300 transition-colors cursor-pointer">
+              <button className="font-semibold text-slate-800 flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded hover:bg-emerald-300 transition-colors cursor-pointer p-8 border-green-200 hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                 Sign In
                 <svg className="ml-2" viewBox="0 0 24 24" width="24" height="24">
                   <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
@@ -36,3 +36,4 @@ export default async function Navbar() {
     </nav>
   );
 }
+
