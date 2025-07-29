@@ -123,8 +123,8 @@ DULK/
 
 For questions, suggestions, or feedback, feel free to reach out!
 
-- **I would like to sincerely thank who stood by my side throughout this project. Your encouragement, feedback, and support helped turn this idea into reality. Special appreciation to those who believed in me even when I had doubts — this wouldn't have been possible without you.**
--    **Dulen Vinjaya Lamahewa**
+**I would like to sincerely thank who stood by my side throughout this project. Your encouragement, feedback, and support helped turn this idea into reality. Special appreciation to those who believed in me even when I had doubts — this wouldn't have been possible without you.**
+                                                                                                   **Dulen Vinjaya Lamahewa**
 
 
 
