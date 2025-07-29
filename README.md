@@ -6,6 +6,7 @@ Dulk is a powerful yet intuitive expense tracking web app built for the modern u
 
 <img width="1440" height="900" alt="Screenshot 2025-07-29 at 19 33 35" src="https://github.com/user-attachments/assets/5dc3bd6c-796f-4f02-8527-07562eefc8bf" />
 <img width="1440" height="813" alt="Screenshot 2025-07-29 at 19 33 14" src="https://github.com/user-attachments/assets/a50b3abd-ef09-42c6-9bc6-254835f52141" />
+<img width="1440" height="651" alt="Screenshot 2025-07-29 at 19 41 46" src="https://github.com/user-attachments/assets/8967f02d-335b-47f3-bafe-a5fee44af02a" />
 
 **🔗 Live:** [https://dul-k-git-main-dulens-projects-818752ee.vercel.app](https://dul-k-git-main-dulens-projects-818752ee.vercel.app)
 
