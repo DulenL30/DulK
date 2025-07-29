@@ -8,14 +8,14 @@ Dulk is a powerful yet intuitive expense tracking web app built for the modern u
 
 ## ✨ Features
 
-- ** Income & Expense Tracking** - Add, categorize, and manage all your financial transactions
-- ** Real-time Balance Updates** - Watch your balance update instantly as you add transactions
-- ** Mobile Responsive** - Perfect experience across all devices and screen sizes
-- ** Transaction History** - Complete list of all your financial activities
-- ** Edit & Delete** - Modify or remove transactions with full balance recalculation
-- ** Secure Authentication** - Login with your Gmail account via Clerk
-- ** Profile Management** - Customize and manage your account settings
-- ** Modern UI** - Clean, intuitive interface built with Tailwind CSS
+- **Income & Expense Tracking** - Add, categorize, and manage all your financial transactions
+- **Real-time Balance Updates** - Watch your balance update instantly as you add transactions
+- **Mobile Responsive** - Perfect experience across all devices and screen sizes
+- **Transaction History** - Complete list of all your financial activities
+- **Edit & Delete** - Modify or remove transactions with full balance recalculation
+- **Secure Authentication** - Login with your Gmail account via Clerk
+- **Profile Management** - Customize and manage your account settings
+- **Modern UI** - Clean, intuitive interface built with Tailwind CSS
 
 ## 🛠️ Tech Stack
 
@@ -68,12 +68,12 @@ Dulk is a powerful yet intuitive expense tracking web app built for the modern u
 
 ## 📱 How to Use
 
-1. ** Sign Up/Login** - Use your Gmail account to authenticate
-2. ** Add Transactions** - Record your income and expenses
-3. ** View Balance** - See your current financial status at a glance
-4. ** Check History** - Browse through all your past transactions
-5. ** Edit/Delete** - Modify transactions as needed
-6. ** Manage Profile** - Update your account information
+1. **Sign Up/Login** - Use your Gmail account to authenticate
+2. **Add Transactions** - Record your income and expenses
+3. **View Balance** - See your current financial status at a glance
+4. **Check History** - Browse through all your past transactions
+5. **Edit/Delete** - Modify transactions as needed
+6. **Manage Profile** - Update your account information
 
 ## 🏗️ Project Structure
 
@@ -119,20 +119,17 @@ DULK/
 └── tsconfig.json
 ```
 
-
-## 🙏 Acknowledgments
-
-- **Neon** for providing excellent cloud-native PostgreSQL database
-- **Clerk** for seamless authentication solutions
-- **Vercel** for reliable deployment platform
-- **Next.js** and **Tailwind CSS** communities for amazing tools
-
 ## 📧 Contact
 
 For questions, suggestions, or feedback, feel free to reach out!
 
----
+- **I would like to sincerely thank who stood by my side throughout this project. Your encouragement, feedback, and support helped turn this idea into reality. Special appreciation to those who believed in me even when I had doubts — this wouldn't have been possible without you.**
+-    **Dulen Vinjaya Lamahewa**
 
-**⭐ If you found this project helpful, please give it a star!**
 
-*Built with ❤️ by [Your Name]*
+
+
+
+
+
+
