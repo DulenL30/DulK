@@ -3,6 +3,7 @@
 ## 🌟 Overview
 
 Dulk is a powerful yet intuitive expense tracking web app built for the modern user. Whether you're on desktop or mobile, manage your income and expenses seamlessly with real-time balance updates and comprehensive transaction history.
+![Uploading Screenshot 2025-07-29 at 19.23.56.png…]()
 
 **🔗 Live Demo:** [https://dul-k-git-main-dulens-projects-818752ee.vercel.app](https://dul-k-git-main-dulens-projects-818752ee.vercel.app)
 
