@@ -1,6 +1,7 @@
 # Dulk - Smart Expense Tracker
 
-## 🌟 Overview
+## 🎯 Project Overview
+<img width="1440" height="898" alt="Screenshot 2025-07-29 at 19 27 58" src="https://github.com/user-attachments/assets/3c6008c2-2e0c-4961-915e-439476468bb9" />
 
 Dulk is a powerful yet intuitive expense tracking web app built for the modern user. Whether you're on desktop or mobile, manage your income and expenses seamlessly with real-time balance updates and comprehensive transaction history.
 
