@@ -150,11 +150,10 @@ const FirstPage = () => {
             
             </div>
            
-           <div className="md:col-span-2 flex justify-end pr-10">
-  <Robot />
-</div>
+           <div className="lg:col-span-2 flex justify-center lg:justify-end lg:pr-10 overflow-hidden">
+              <Robot />
+            </div>
 
-            
            
 
           </div>
